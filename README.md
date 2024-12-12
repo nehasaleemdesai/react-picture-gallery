@@ -8,7 +8,6 @@ You can view the live project here: [React Picture Gallery](https://nehasaleemde
 
 - Display a gallery of images in a grid layout.
 - Responsive design that adapts to different screen sizes.
-- Images can be clicked to open in full view.
 - Easy to extend with additional features, like adding captions or search functionality.
 
 ## Technologies Used
