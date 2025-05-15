@@ -15,3 +15,13 @@ You can view the live project here: [React Picture Gallery](https://nehasaleemde
 - **React**: A JavaScript library for building user interfaces.
 - **HTML/CSS**: For structuring and styling the gallery.
 - **React Hooks**: Using state management to handle the gallery items dynamically.
+- **Unsplash API** (via custom fetch utility): To retrieve image data dynamically.
+- **JavaScript (ES6+)**: Async/await for smooth API interactions.
+
+## 🔄 New Additions
+
+### Infinite Scroll
+
+- The gallery now supports infinite scrolling.
+- As users reach the bottom of the page, more images load automatically.
+- This improves the browsing experience by removing the need for pagination or load buttons.
